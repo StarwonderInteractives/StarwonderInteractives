@@ -1,6 +1,6 @@
 - Greetings, We're @StarwonderInteractives
 - We're interested in Game Development
-- We're currently learning Horror game dev and C# for unity
+- We're currently learning  game dev and Cpp for unreal engine
 - You can contact us from:
   Telegram:@Damon_Salvatore09,@Sadiquek1ng
 - We are looking for collaborations from other indie devs                                  
