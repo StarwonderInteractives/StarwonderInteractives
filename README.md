@@ -6,7 +6,7 @@ Game Developer
 
 I’m Hasan, a Unity gamedev and co-founder of Starwonder Interactives alongside Sadique 🫱🏽‍🫲🏼. I focus on scripting, level design, modeling, and UI while Sadique backs me up with art, audio, and all the creative madness that keeps our projects alive 🎨🎧. Together we build atmospheric worlds, experiment with mechanics, and turn wild ideas into indie experiences. When I’m not grinding dev work, I’m dropping gaming edits on YouTube or messing with random tech stuff just for fun ⚡. The goal? Keep leveling up, release polished PC projects, and create experiences that actually hit different 🚀🔥.
 
-* 🌍  I'm based in India
+* 🌍  I'm from India
 * ✉️  You can contact me through [My Linktree](https://linktr.ee/HasanAbbasKazim)
 
 <p align="left">
