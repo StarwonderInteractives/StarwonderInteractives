@@ -1,30 +1,19 @@
-- <h1 align="center">✨ Hey, I’m Hasan — Gamedev in the Making ✨</h1>
+-- I am Hasan Kazim, Co-founder @ StarwonderIn teractives
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="stats"/>
-</p>
+2 -- I am a Game Developer
 
----
+3
 
-## 🎮 What I Do
-- 🚀 Game dev (Unity gang 🫡)
-- 🎨 Blender modeling & VFX
-- 🧠 AI-powered workflows
-- 🛠️ Building horror games like *THE ENTRY*
+-- I am currently learning C# for unity
 
----
+4
 
-## 🔥 Current Project
-**THE ENTRY — Survival Horror Game**  
-> Reality-shifting hotel, sanity meter, shadow mechanics, full chaos vibes 👀
+-- We are looking for collaborations from othe
 
----
+r indie devs
 
-## 🧩 Tech Stack
-```yaml
-Engine: Unity
-Modeling: Blender
-Texturing: Photoshop
-Audio: Audacity
-Code: C# + VS Community
-Version Control: GitHub
+Το jo
+
+in our dicord server and help us to make the g
+
+ame, just DM us on our Telegram accounts
