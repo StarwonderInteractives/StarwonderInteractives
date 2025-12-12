@@ -1,19 +1,9 @@
--- I am Hasan Kazim, Co-founder @ StarwonderIn teractives
+- I am Hasan Kazim, Co-founder @ Starwonder Interactives
 
-2 -- I am a Game Developer
+- I am a Game Developer
 
-3
+- I am currently learning C# for unity
 
--- I am currently learning C# for unity
+- We are looking for collaborations from other indie devs
 
-4
-
--- We are looking for collaborations from othe
-
-r indie devs
-
-Το jo
-
-in our dicord server and help us to make the g
-
-ame, just DM us on our Telegram accounts
+- Το join our dicord server and help us to make the game, just DM me on my Telegram accounts
